@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="post" action="script.php">
+    <fieldset>
+        <legend>Infos persos</legend>
+    <label
+           for="message">Message</label>
+    <input
+           required
+           type="text"
+           placeholder="Veuillez saisr un message"
+           id="message" name="message">
+    <br>
+    <label for="age">Age</label>
+    <input type="text"
+           pattern="[0-1]?\d{1,2}"
+           name="name" id="age">
+    <label for="pwd">Password</label>
+    <input type="password" name="password" id="pwd">
+    <textarea name=textarea"" cols="30" rows="10">
+        Bonjour
+    </textarea>
+    Votre sexe :
+    <INPUT TYPE ="radio" checked NAME ="sexe"   VALUE="Homme">  Homme
+    <INPUT TYPE ="radio" NAME ="sexe"   VALUE="Femme"> Femme
+    <br>
+    </fieldset>
+    <fieldset>
+        <legend> Infos générales</legend>
+    <INPUT TYPE ="checkbox" NAME ="nom_cases[]"  VALUE="valeur1">  texte case1
+    <INPUT TYPE ="checkbox" NAME ="nom_cases[]"  VALUE=" valeur2">  texte case2
+    <INPUT TYPE ="checkbox" NAME ="nom_cases[]"  VALUE=" valeur3"> texte case3
+    <br>
+    <select name="langue[]" multiple>
+        <option value="ar">Arabe</option>
+        <option value="fr">Francais</option>
+        <option value="en">Anglais</option>
+        <option value="es">Espagnol</option>
+    </select>
+    <br>
+    </fieldset>
+
+    <input type="submit" value="envoyer">
+    <input type="reset" value="remettre à zero">
+</form>
+</body>
+</html>
