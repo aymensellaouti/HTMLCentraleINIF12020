@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f423f262-7b56-47ba-b4c0-106f47d433ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrapExemple.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrapExemple.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Node\SI1Centrale\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnbKhqBKIMwX4wiwzx1qLKI36R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node\SI1Centrale" />
+      <recent name="E:\Node\SI1Centrale\assets" />
+      <recent name="E:\Node\SI1Centrale\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node\SI1Centrale\pages" />
+      <recent name="C:\xampp\htdocs\si1" />
+      <recent name="E:\Node\SI1Centrale\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.script.js">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SI1Centrale/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/script.js" working-dir="$PROJECT_DIR$/assets/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f423f262-7b56-47ba-b4c0-106f47d433ba" name="Default Changelist" comment="" />
+      <created>1579788243399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579788243399</updated>
+      <workItem from="1579788244698" duration="3288000" />
+      <workItem from="1579804845578" duration="11000" />
+      <workItem from="1580394279035" duration="3173000" />
+      <workItem from="1580454636094" duration="93000" />
+      <workItem from="1580992860842" duration="3450000" />
+      <workItem from="1581059481567" duration="9000" />
+      <workItem from="1581598228510" duration="5457000" />
+    </task>
+    <task id="LOCAL-00001" summary="second commit&#10;bug correction">
+      <created>1579790734834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579790734834</updated>
+    </task>
+    <task id="LOCAL-00002" summary="support de cours">
+      <created>1579790932999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579790932999</updated>
+    </task>
+    <task id="LOCAL-00003" summary="séance 2">
+      <created>1580399864001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580399864001</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Séance 3">
+      <created>1581604209030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581604209030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit&#10;bug correction" />
+    <MESSAGE value="support de cours" />
+    <MESSAGE value="séance 2" />
+    <MESSAGE value="Séance 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Séance 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="0" key="CommitChangelistDialog2" timestamp="1581604208340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581604208340" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1579790709629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1579790709629" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1580396167613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580396167613" />
+    <state width="1515" height="190" key="GridCell.Tab.0.bottom" timestamp="1581605840536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
+    <state width="1515" height="190" key="GridCell.Tab.0.center" timestamp="1581605840536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
+    <state width="1515" height="190" key="GridCell.Tab.0.left" timestamp="1581605840536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
+    <state width="1515" height="190" key="GridCell.Tab.0.right" timestamp="1581605840536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1581604214624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581604214624" />
+    <state x="2088" y="162" key="run.anything.popup" timestamp="1581600185837">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="2088" y="162" key="run.anything.popup/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1581600185837" />
+  </component>
+</project>
