@@ -1,0 +1,24 @@
+{
+  "name": "si1centrale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymensellaouti/HTMLCentraleINIF12020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aymensellaouti/HTMLCentraleINIF12020/issues"
+  },
+  "homepage": "https://github.com/aymensellaouti/HTMLCentraleINIF12020#readme"
+}

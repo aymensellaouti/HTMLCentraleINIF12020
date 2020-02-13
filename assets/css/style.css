@@ -1,0 +1,25 @@
+p {
+    color: red;
+    background-color: gold;
+}
+
+div {
+    border: red 1px solid;
+    width: 50%;
+}
+
+ul li{
+    list-style-type: square;
+}
+
+#testDiv {
+    margin: 0 auto;
+}
+a:hover {
+    font-size: 200%;
+    color: gold;
+}
+
+span {
+    border: black 1px solid;
+}
