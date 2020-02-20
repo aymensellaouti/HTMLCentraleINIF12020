@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f423f262-7b56-47ba-b4c0-106f47d433ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrapExemple.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrapExemple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/script2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,11 @@
       <recent name="E:\Node\SI1Centrale\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.script.js">
+  <component name="RunManager" selected="Node.js.script2.js">
     <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SI1Centrale/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="script2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/script2.js" working-dir="$PROJECT_DIR$/assets/js">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/script.js" working-dir="$PROJECT_DIR$/assets/js">
@@ -67,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script2.js" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="JavaScript Debug.test.html" />
       </list>
@@ -101,6 +105,9 @@
       <workItem from="1580992860842" duration="3450000" />
       <workItem from="1581059481567" duration="9000" />
       <workItem from="1581598228510" duration="5457000" />
+      <workItem from="1581605865081" duration="104000" />
+      <workItem from="1581667963001" duration="64000" />
+      <workItem from="1582201841313" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="second commit&#10;bug correction">
       <created>1579790734834</created>
@@ -130,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581604209030</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="js">
+      <created>1581605928246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581605928246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,13 +155,14 @@
     <MESSAGE value="support de cours" />
     <MESSAGE value="séance 2" />
     <MESSAGE value="Séance 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Séance 3" />
+    <MESSAGE value="js" />
+    <option name="LAST_COMMIT_MESSAGE" value="js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="0" key="CommitChangelistDialog2" timestamp="1581604208340">
+    <state x="399" y="0" key="CommitChangelistDialog2" timestamp="1581605927286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="399" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581604208340" />
+    <state x="399" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581605927286" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1579790709629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -156,26 +171,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580396167613" />
-    <state width="1515" height="190" key="GridCell.Tab.0.bottom" timestamp="1581605840536">
+    <state width="1515" height="190" key="GridCell.Tab.0.bottom" timestamp="1582202514640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
-    <state width="1515" height="190" key="GridCell.Tab.0.center" timestamp="1581605840536">
+    <state width="1515" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582202514640" />
+    <state width="1515" height="190" key="GridCell.Tab.0.center" timestamp="1582202514640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
-    <state width="1515" height="190" key="GridCell.Tab.0.left" timestamp="1581605840536">
+    <state width="1515" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582202514640" />
+    <state width="1515" height="190" key="GridCell.Tab.0.left" timestamp="1582202514640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
-    <state width="1515" height="190" key="GridCell.Tab.0.right" timestamp="1581605840536">
+    <state width="1515" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582202514640" />
+    <state width="1515" height="190" key="GridCell.Tab.0.right" timestamp="1582202514640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581605840536" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1581604214624">
+    <state width="1515" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582202514640" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1581605950468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581604214624" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581605950468" />
     <state x="2088" y="162" key="run.anything.popup" timestamp="1581600185837">
       <screen x="1920" y="0" width="1024" height="728" />
     </state>
