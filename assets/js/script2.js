@@ -12,3 +12,4 @@ indice = setInterval(() => {
         clearInterval(indice);
     }
 }, 1000);
+
