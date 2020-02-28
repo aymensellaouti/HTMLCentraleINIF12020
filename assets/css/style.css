@@ -19,7 +19,10 @@ a:hover {
     font-size: 200%;
     color: gold;
 }
-
+.color {
+    color: red;
+    background-color: yellow;
+}
 span {
     border: black 1px solid;
 }
