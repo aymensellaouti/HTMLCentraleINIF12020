@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f423f262-7b56-47ba-b4c0-106f47d433ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/nombreAleatoire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coloredCountries.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contentManagment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contentManagment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/country.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/country.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evenement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/Combat.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/Combat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,26 +23,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\Node\SI1Centrale\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1WnbKhqBKIMwX4wiwzx1qLKI36R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -48,6 +46,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -87,18 +86,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -123,6 +110,13 @@
       <workItem from="1582293377835" duration="24000" />
       <workItem from="1582807155274" duration="2567000" />
       <workItem from="1582811082585" duration="3563000" />
+      <workItem from="1582897824055" duration="470000" />
+      <workItem from="1586420655632" duration="88000" />
+      <workItem from="1586421375430" duration="698000" />
+      <workItem from="1587041945954" duration="623000" />
+      <workItem from="1587646591512" duration="4652000" />
+      <workItem from="1587744538003" duration="199000" />
+      <workItem from="1588254167200" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="second commit&#10;bug correction">
       <created>1579790734834</created>
@@ -180,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582810037080</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Objets v2">
+      <created>1582897861259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582897861259</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit&#10;bug correction" />
@@ -195,12 +196,18 @@
     <MESSAGE value="exemple setTimout" />
     <MESSAGE value="array js" />
     <MESSAGE value="Objets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Objets" />
+    <MESSAGE value="Objets v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Objets v2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="0" key="CommitChangelistDialog2" timestamp="1582810036403">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586420675559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586420675559" />
+    <state x="399" y="0" key="CommitChangelistDialog2" timestamp="1582897860609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582897860609" />
     <state x="399" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582810036403" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1579790709629">
       <screen x="0" y="0" width="1536" height="824" />
@@ -226,14 +233,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582815419192" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582810038781">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582897862956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1582897862956" />
     <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582810038781" />
-    <state x="252" y="183" key="run.anything.popup" timestamp="1582209062077">
+    <state x="252" y="183" width="672" height="677" key="run.anything.popup" timestamp="1588255090986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2088" y="162" key="run.anything.popup/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1581600185837" />
+    <state x="252" y="183" width="672" height="677" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588255090986" />
     <state x="252" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582209062077" />
   </component>
 </project>
